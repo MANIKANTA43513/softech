@@ -1,22 +1,16 @@
-# Welcome to your Lovable project
+# User Profiles - Samplyfi Softech Assignment
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/19ff9c05-bf3c-4003-b895-fcc8278d060d
+A modern React application displaying user profile cards with advanced functionality. Built for the Samplyfi Softech Frontend Developer assignment.
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/19ff9c05-bf3c-4003-b895-fcc8278d060d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +56,13 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/19ff9c05-bf3c-4003-b895-fcc8278d060d) and click on Share -> Publish.
+You can deploy this project using various hosting platforms like Vercel, Netlify, or GitHub Pages.
 
-## Can I connect a custom domain to my Lovable project?
+For Vercel deployment:
+1. Install Vercel CLI: `npm install -g vercel`
+2. Run `npm run build` to create a production build
+3. Run `vercel --prod` and follow the prompts
 
-Yes, you can!
+## Custom Domain
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+You can connect a custom domain through your hosting platform's domain settings.
